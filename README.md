@@ -13,3 +13,4 @@ The three reminders that I would use to myself in a growth minset would be as fo
 
 My [GitHub Page](https://dbird54.github.io/reading-notes/)
 
+![My Side Hustle](C:\Users\EEG-J\OneDrive\Desktop\images.png)
