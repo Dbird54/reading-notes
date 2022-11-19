@@ -2,7 +2,7 @@
 
 My Reading Notes
 
-## My Name Is Joshua
+## A Growth Mindset
 
 > A growth mindset to me is the abiity to know you are capable of accomplishing anything you want through
 > hardwork and determination.
@@ -30,7 +30,20 @@ The three reminders that I would use to myself in a growth minset would be as fo
 
 - [201 Class 1](201/class01.md)
 - [201 Class 2](201/class02.md)
+- [201 Class 3](201/class03.md)
+- [201 Class 4](201/class04.md)
+- [201 Class 5](201/class05.md)
+- [201 Class 6](201/class06.md)
+- [201 Class 7](201/class07.md)
+- [201 Class 8](201/class08.md)
+- [201 Class 9](201/class09.md)
+- [201 Class 10](201/class10.md)
+- [201 Class 11](201/class11.md)
+- [201 Class 12](201/class12.md)
+- [201 Class 13](201/class13.md)
+- [201 Class 14](201/class14.md)
+- [201 Class 15](201/class15.md)
 
-My [GitHub Page](https://github.com/Dbird54)
+[GitHub Page](https://github.com/Dbird54)
 
-![My Side Hustle](hocktopus.jpg)
+[My Side Hustle](hocktopus.jpg)
